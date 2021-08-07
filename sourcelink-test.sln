@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sourcelink-test", "sourcelink-test\sourcelink-test.csproj", "{70AAB2EA-B6C3-4DEF-82A3-C1B0F4986C7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70AAB2EA-B6C3-4DEF-82A3-C1B0F4986C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AAB2EA-B6C3-4DEF-82A3-C1B0F4986C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AAB2EA-B6C3-4DEF-82A3-C1B0F4986C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AAB2EA-B6C3-4DEF-82A3-C1B0F4986C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89711BCC-A6D6-4A47-979B-464B91BD2011}
+	EndGlobalSection
+EndGlobal
