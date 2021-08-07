@@ -10,7 +10,7 @@ namespace sourcelink_test
             Console.WriteLine("Hello World!");
 
             var x = new Class1();
-
+            Console.WriteLine(x.GetHelloText("Slawomir"));
         }
     }
 }
