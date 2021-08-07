@@ -6,4 +6,8 @@
     <RootNamespace>sourcelink_test</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="dependency-with-sourcelink" Version="1.0.1" />
+  </ItemGroup>
+
 </Project>
